@@ -1,0 +1,10 @@
+{
+	"name": "angular-route-dist",
+	"main": [
+	  "angular-route.js",
+	  "angular-route.min.js"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
